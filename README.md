@@ -8,7 +8,7 @@ camoyaastudillo@my.waketech.edu
 This is my CTI110 SP2025 GitHub account
 This repository is going to hold all of my work for class
 
-# *About Me*
+# **About Me**
 ## My Interests
   I like to watch movies. My favorite movie right now is *Wall-E*, and it's **awesome!** I would recommend it to anyone, including the person reading this right now. I also like to play video games. My favorite game right now is *The Last of Us Part II* because of how **awesome** it is. Eating food is another pastime of mine, with my favorite food being pizza. I don't think I could accurately capture how **awesome** pizza is with just words, so you'll just have to believe me when I say that it is. Soda is also *pretty* good. But besides those things I mostly just do school work or lounge about.
 ## Websites I Recommend
