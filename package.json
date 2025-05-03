@@ -2,5 +2,24 @@
   "dependencies": {
     "express": "^5.1.0",
     "pg": "^8.15.6"
-  }
+  },
+  "name": "carlmoya",
+  "version": "1.0.0",
+  "main": "cti_110_node.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlmoya/carlmoya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlmoya/carlmoya/issues"
+  },
+  "homepage": "https://github.com/carlmoya/carlmoya#readme",
+  "description": ""
 }
